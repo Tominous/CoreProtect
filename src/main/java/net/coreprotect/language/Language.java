@@ -80,7 +80,7 @@ public class Language {
         phrases.put(Phrase.HELP_LOOKUP_2, "Use after inspecting a block to view logs.");
         phrases.put(Phrase.HELP_LOOKUP_COMMAND, "Advanced block data lookup.");
         phrases.put(Phrase.HELP_NO_INFO, "Information for command \"{0}\" not found.");
-        phrases.put(Phrase.HELP_PARAMETER, "Please see \"{0}\" for detailed parameter info.");
+        phrases.put(Phrase.HELP_PARAMETER, "Please see \"{0}\" for detailed parameter information.");
         phrases.put(Phrase.HELP_PARAMS_1, "Perform the {lookup|rollback|restore}.");
         phrases.put(Phrase.HELP_PARAMS_2, "Specify the user(s) to {lookup|rollback|restore}.");
         phrases.put(Phrase.HELP_PARAMS_3, "Specify the amount of time to {lookup|rollback|restore}.");
