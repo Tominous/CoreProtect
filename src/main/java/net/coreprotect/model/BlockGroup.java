@@ -81,7 +81,7 @@ public final class BlockGroup {
             NATURAL_BLOCKS.addAll(SOUL_BLOCKS);
             NATURAL_BLOCKS.addAll(VINES);
 
-            /*
+            
             NATURAL_BLOCKS.addAll(Tag.BASE_STONE_OVERWORLD.getValues());
             NATURAL_BLOCKS.addAll(Tag.BEACON_BASE_BLOCKS.getValues());
             NATURAL_BLOCKS.addAll(Tag.SOUL_FIRE_BASE_BLOCKS.getValues());
@@ -113,7 +113,7 @@ public final class BlockGroup {
             NATURAL_BLOCKS.addAll(Tag.MUSHROOM_GROW_BLOCK.getValues());
             NATURAL_BLOCKS.addAll(Tag.NYLIUM.getValues());
             NATURAL_BLOCKS.addAll(Tag.PORTALS.getValues());
-            */
+            
         }
     }
 }
