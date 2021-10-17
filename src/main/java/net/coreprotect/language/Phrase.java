@@ -252,7 +252,7 @@ public enum Phrase {
         }
 
         if ((index + indexExtra) != params.length) { // fallback for issues with user modified phrases
-            // System.out.println("buildInternal"); // debug
+             System.out.println("buildInternal"); // debug
             output = buildInternal(phrase, params, color);
         }
 
